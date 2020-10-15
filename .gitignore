@@ -1,4 +1,5 @@
-01_Build_Basic_Generative_Adversarial_Networks/Week1/stylegan/
+01_Build_Basic_Generative_Adversarial_Networks/stylegan/
+MNIST/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
