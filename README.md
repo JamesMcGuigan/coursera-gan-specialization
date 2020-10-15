@@ -4,7 +4,9 @@ Homework from the deeplearning.ai Generative Adversarial Networks GAN Specializa
 - https://www.deeplearning.ai/generative-adversarial-networks-specialization/
 
 
-# Course 1 - Week 1
+# Course 1 - Build Basic Generative Adversarial Networks
+
+## Week 1
 
 Hyperspherical Variational Auto-Encoders (Davidson, Falorsi, De Cao, Kipf, and Tomczak, 2018)
 - https://www.researchgate.net/figure/Latent-space-visualization-of-the-10-MNIST-digits-in-2-dimensions-of-both-N-VAE-left_fig2_324182043
@@ -24,7 +26,6 @@ Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversa
 These Cats Do Not Exist (Glover and Mott, 2019)
 - http://thesecatsdonotexist.com/
 
-From the notebooks:
 
 Large Scale GAN Training for High Fidelity Natural Image Synthesis (Brock, Donahue, and Simonyan, 2019)
  - https://arxiv.org/abs/1809.11096
@@ -33,4 +34,16 @@ PyTorch Documentation:
 - https://pytorch.org/docs/stable/index.html#pytorch-documentation
 
 MNIST Database: 
+- http://yann.lecun.com/exdb/mnist/
+
+
+## Week 2
+
+Deconvolution and Checkerboard Artifacts (Odena et al., 2016)
+- http://doi.org/10.23915/distill.00003
+
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (Radford, Metz, and Chintala, 2016)
+- https://arxiv.org/abs/1511.06434
+
+MNIST Database
 - http://yann.lecun.com/exdb/mnist/
