@@ -61,8 +61,6 @@ Improved Training of Wasserstein GANs (Gulrajani et al., 2017) - https://arxiv.o
 
 ## Week 1
 
-- Fréchet Inception Distance (Jean, 2018) - https://nealjean.com/ml/frechet-inception-distance/
-
 - GAN — How to measure GAN performance? (Hui, 2018) - https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732
 
 - Review: Inception-v3 — 1st Runner Up (Image Classification) in ILSVRC 2015 (Tsang, 2018) - https://medium.com/@sh.tsang/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c
@@ -73,6 +71,9 @@ Improved Training of Wasserstein GANs (Gulrajani et al., 2017) - https://arxiv.o
 
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis (Brock, Donahue, and Simonyan, 2019) - https://arxiv.org/abs/1809.11096
 
+- Fréchet Inception Distance (Jean, 2018) - https://nealjean.com/ml/frechet-inception-distance/
+
 - The Fréchet Distance between Multivariate Normal Distributions (Dowson and Landau, 1982) - https://core.ac.uk/reader/82269844
 
 - The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (Richard Zhang, Phillip Isola, Alexei A. Efros, Eli Shechtman, Oliver Wang, 2018) - https://arxiv.org/abs/1801.03924
+  - LPIPS (perceptual metric) - https://github.com/richzhang/PerceptualSimilarity Perceptual Similarity Metric and Dataset [Project Page]
