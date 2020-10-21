@@ -115,3 +115,17 @@ Improved Training of Wasserstein GANs (Gulrajani et al., 2017) - https://arxiv.o
 - StyleGAN Faces Training (Branwen, 2019) - https://www.gwern.net/images/gan/2019-03-16-stylegan-facestraining.mp4
 
 - Facebook AI Proposes Group Normalization Alternative to Batch Normalization (Peng, 2018) - https://medium.com/syncedreview/facebook-ai-proposes-group-normalization-alternative-to-batch-normalization-fb0699bffae7
+
+- Analyzing and Improving the Image Quality of StyleGAN (Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila, 2020) - https://arxiv.org/abs/1912.04958
+
+- Semantic Image Synthesis with Spatially-Adaptive Normalization (Park et al., 2019) - https://arxiv.org/abs/1903.07291
+
+- Large Scale GAN Training for High Fidelity Natural Image Synthesis (Brock et al. 2019) - https://arxiv.org/abs/1809.11096
+
+- Self-Attention Generative Adversarial Networks (Zhang et al. 2018) - https://arxiv.org/abs/1805.08318
+
+- Attention Is All You Need (Vaswani et al. 2017) - https://arxiv.org/abs/1706.03762
+
+- The Illustrated Transformer - https://jalammar.github.io/illustrated-transformer/
+
+- GAN — StyleGAN & StyleGAN2 (Hui, 2020) - https://medium.com/@jonathan_hui/gan-stylegan-stylegan2-479bdf256299
